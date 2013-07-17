@@ -1,4 +1,4 @@
 cw.ajax
 =======
 
-ajax plugin
+ajax plugin for [communist](https://github.com/calvinmetcalf/communist)
